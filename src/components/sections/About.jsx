@@ -39,7 +39,7 @@ const About = () => {
   }, []);
 
   return (
-    <section className="about">
+    <section className="about" id="meet">
       <div className="container">
         <div className="about-img">
           <img src={myImg} alt="Ciubari Daniela" />

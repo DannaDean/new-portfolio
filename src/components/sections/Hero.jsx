@@ -15,7 +15,7 @@ const Hero = () => {
           title={<>Here to make you look <br /> good and win business.</>}
           text={<>Websites that convert and apps that feel effortless. <br/> Clean, clear, and thoughtfully designed.</>}
           flowerImg={flowerImg}
-          button={<Button />}
+          button={<Button href={"#getInTouch"} />}
           bgColor="#F889E7"
         />
 

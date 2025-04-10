@@ -26,7 +26,7 @@ const Skills = () => {
         </div>
         <div className="conect-box">
           <h3>Ready to get started?</h3>
-          <Button bgColor="rgba(208, 150, 223, 1)" />
+          <Button href={"#getInTouch"} bgColor="rgba(208, 150, 223, 1)" />
         </div>
       </div>
     </section>

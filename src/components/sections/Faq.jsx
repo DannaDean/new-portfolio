@@ -17,7 +17,7 @@ const Faq = () => {
     const evenFaqs = faqs.filter((faq, index) => index % 2 === 0);
 
   return (
-    <section className="faq">
+    <section className="faq" id='faq'>
       <div className="container">
         <h2>FAQs</h2>
 

@@ -1,4 +1,4 @@
-import { Plus, Minus } from 'akar-icons';
+import { Plus } from 'akar-icons';
 import { useState, useRef, useEffect } from 'react';
 
 const FaqItem = ({ title, text, index, selected, toggle }) => {
